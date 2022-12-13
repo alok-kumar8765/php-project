@@ -1,1 +1,0 @@
-ALTER TABLE `settings` ADD `track_clicks` ENUM( '0', '1' ) NOT NULL DEFAULT '0' AFTER `retry_limit`;

@@ -1,2 +1,0 @@
-ALTER TABLE `settings` ADD `app_version` VARCHAR( 255 ) NOT NULL DEFAULT 'v2.4' AFTER `app_secret` ;
-ALTER TABLE `settings_general` ADD `app_version` VARCHAR( 255 ) NOT NULL DEFAULT 'v2.4' AFTER `app_secret` ;
